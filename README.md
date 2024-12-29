@@ -1,3 +1,1 @@
-This is a sample rock paper scissors game (one player game)
-User inputs are compared against a random bot
-This game can be continually played until the user wishes to exit
+This rock paper scissors game allows a user to compete against a compouter by running different scenarios, and then recieves final data for each combination at the end. There are (3^2) combinations for the game (R,P,S) * (WIN,LOSS,TIE). This game is designed to be simple to play and incorporates randomness and luck.
